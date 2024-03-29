@@ -22,10 +22,7 @@
 ## API 레퍼런스
 
 ### 모든 유저 정보 가져오기
-
-```
-  GET /api/users
-```
+**`GET`** `/api/users`
 - 요청 파라미터:
   
 | Parameter | Type     | Description                |
